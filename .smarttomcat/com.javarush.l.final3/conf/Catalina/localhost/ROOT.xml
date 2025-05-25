@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/home/epikuros/Documents/JavaRush/Java/com.javarush.l.servlet-master/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/home/epikuros/Documents/JavaRush/Java/com.javarush.l.servlet-master/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="/home/epikuros/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jstl-1.2.jar"/>
+  </Resources>
+</Context>

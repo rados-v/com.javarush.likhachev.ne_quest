@@ -1,0 +1,25 @@
+{
+  "Экстраверсия": [
+    {"range": [0, 2], "interpretation": "Сверхинтроверт"},
+    {"range": [3, 6], "interpretation": "Интровертность"},
+    {"range": [7, 10], "interpretation": "Потенциальный интроверт"},
+    {"range": [11, 14], "interpretation": "Амбиверт"},
+    {"range": [15, 18], "interpretation": "Потенциальный экстраверт"},
+    {"range": [19, 22], "interpretation": "Экстраверт"},
+    {"range": [23, 24], "interpretation": "Сверхэкстраверт"}
+  ],
+  "Невротизм": [
+    {"range": [0, 2], "interpretation": "Сверхконкордант"},
+    {"range": [3, 6], "interpretation": "Конкордант"},
+    {"range": [7, 10], "interpretation": "Потенциальный конкордант"},
+    {"range": [11, 14], "interpretation": "Нормостеник"},
+    {"range": [15, 18], "interpretation": "Потенциальный дискордант"},
+    {"range": [19, 22], "interpretation": "Дискордант"},
+    {"range": [23, 24], "interpretation": "Сверхдискордант"}
+  ],
+  "Искренность": [
+    {"range": [0, 3], "interpretation": "Откровенный"},
+    {"range": [4, 6], "interpretation": "Ситуативный"},
+    {"range": [7, 9], "interpretation": "Лживый"}
+  ]
+}
